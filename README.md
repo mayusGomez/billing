@@ -1,4 +1,4 @@
-# billing
+# Billing System for Utilities
 Billing app for utilities, this application is intend to:
 *  Manage customers, agreements, services agreements, create documents for load charges
 *  Manage concepts, to identify the charges to load
@@ -12,3 +12,8 @@ Billing app for utilities, this application is intend to:
 *  More...
 
 
+## To run:
+
+*  Create database, adjust properties.
+*  Create schema and database objets (.sql/)
+*  Execute command: ./mvnw spring-boot:run
